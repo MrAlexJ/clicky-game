@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "home": "https://mralexj.github.io/clicky-game/",
+  "homepage": "https://mralexj.github.io/clicky-game",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
