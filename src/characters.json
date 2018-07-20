@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "areo",
+        "image": "./images/areodactyl.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 2,
+        "name": "brock",
+        "image": "./images/brock.gif",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "bulbasaur",
+        "image": "./images/bulbasaur.gif",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "bulbasaur2",
+        "image": "./images/bulbasaur.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 5,
+        "name": "bursting",
+        "image": "./images/bursting.gif",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "image": "./images/charizard.gif",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "charmander",
+        "image": "./images/charmander.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 8,
+        "name": "dragonite",
+        "image": "./images/dragonite.gif",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "evee",
+        "image": "./images/evee.gif",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "ghostly",
+        "image": "./images/ghostly.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 11,
+        "name": "goofy",
+        "image": "./images/goofy.gif",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "jigglypuff",
+        "image": "./images/jigglypuff2.gif",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "jigglypuff2",
+        "image": "./images/jigglypuff2.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 14,
+        "name": "jolt",
+        "image": "./images/jolt.gif",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "legend",
+        "image": "./images/legend.gif",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "name": "lickatung",
+        "image": "./images/lickatung.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 17,
+        "name": "meowth",
+        "image": "./images/meowth.gif",
+        "clicked": false
+    },
+    {
+        "id": 18,
+        "name": "mewtwo",
+        "image": "./images/mewtwo.gif",
+        "clicked": false
+    },
+    {
+        "id": 19,
+        "name": "misty",
+        "image": "./images/misty.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 20,
+        "name": "phanphy",
+        "image": "./images/phanphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 21,
+        "name": "pidgeot",
+        "image": "./images/pidgeot.gif",
+        "clicked": false
+    },
+    {
+        "id": 22,
+        "name": "pikachu2",
+        "image": "./images/pikachu2.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 23,
+        "name": "pikachu3",
+        "image": "./images/pikachu3.gif",
+        "clicked": false
+    },
+    {
+        "id": 24,
+        "name": "pikachu4",
+        "image": "./images/pikachu4.gif",
+        "clicked": false
+    },
+    {
+        "id": 25,
+        "name": "pikachu5",
+        "image": "./images/pikachu5.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "image": "./images/raichu.gif",
+        "clicked": false
+    },
+    {
+        "id": 27,
+        "name": "rocket",
+        "image": "./images/rocket.gif",
+        "clicked": false
+    },
+    {
+        "id": 28,
+        "name": "snorlax",
+        "image": "./images/snorlax.gif",
+        "clicked": false
+    },
+    {
+        "id": 29,
+        "name": "squirtle",
+        "image": "./images/squirtle.gif",
+        "clicked": false
+    },
+    {
+        "id": 30,
+        "name": "squirtle2",
+        "image": "./images/squirtle2.gif",
+        "clicked": false
+
+    },
+    {
+        "id": 31,
+        "name": "raichu",
+        "image": "./images/raichu.gif",
+        "clicked": false
+    },
+    {
+        "id": 32,
+        "name": "pikapika",
+        "image": "./images/pikapika.png",
+        "clicked": false
+    }
+
+]
